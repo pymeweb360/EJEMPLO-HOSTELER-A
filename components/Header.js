@@ -28,7 +28,7 @@ export default function Header() {
             Inicio
           </Link>
           <Link href="/tarifas" className="hover:text-primary">
-            Tarifas
+            Carta
           </Link>
         </nav>
       </div>
